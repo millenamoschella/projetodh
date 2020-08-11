@@ -34,8 +34,8 @@
 | -------- | -------- |
 | Marcia Yokoto | https://github.com/marciayokota |
 | Millena Moschella | https://github.com/millenamoschella |
-| Sara Margarido | https://github.com/saramargarido |
 | Sandra Silmara | https://github.com/sandrazfd |
+| Sara Margarido | https://github.com/saramargarido |
 | Shyrles Monteiro | https://github.com/Shyrles |
 
 
